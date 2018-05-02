@@ -1,0 +1,19 @@
+{
+  "name": "lesson-12",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "Andrushchack",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "request": "^2.85.0",
+    "yargs": "^11.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  }
+}
